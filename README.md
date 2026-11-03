@@ -21,7 +21,8 @@ Objectif : mettre en place une supervision de bout en bout d'un petit parc hét�
 ![Tableau de bord Zabbix](01-dashboard.png)
 
 ### Hôtes supervisés
-![Hôtes Windows et Linux](02-hotes.png)
+![Hôtes Windows](02-hotes.png)
+![Hôte Linux](02-hotes2.png)
 
 ### Seuils d'alerte (macros)
 ![Macros de seuils](03-macros.png)
@@ -30,7 +31,8 @@ Objectif : mettre en place une supervision de bout en bout d'un petit parc hét�
 ![Déclencheur CPU](04-declencheur-cpu.png)
 
 ### Graphiques de charge
-![Graphiques CPU](05-graphiques.png)
+![Graphique CPU Windows](05-graphiques.png)
+![Graphique CPU Linux](05-graphiques2.png)
 
 ### Alerte sur le routeur R1
 ![Incident routeur](06-alerte-routeur.png)
