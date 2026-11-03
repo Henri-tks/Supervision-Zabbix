@@ -18,7 +18,7 @@ Objectif : mettre en place une supervision de bout en bout d'un petit parc hét�
 
 ## Captures d'écran
 ### Tableau de bord
-![Tableau de bord Zabbix](images/01-dashboard.png)
+![Tableau de bord Zabbix](01-dashboard.png)
 
 ### Hôtes supervisés
 ![Hôtes Windows et Linux](images/02-hotes.png)
