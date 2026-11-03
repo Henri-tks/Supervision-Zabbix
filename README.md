@@ -7,7 +7,7 @@ Objectif : mettre en place une supervision de bout en bout d'un petit parc hét�
 - 1 serveur Linux (Ubuntu) via agent Zabbix
 - 1 serveur Windows via SNMP
 - 1 routeur Cisco via SNMP
-- Environnement virtualisé : [hyperviseur à confirmer]
+- Environnement de laboratoire virtualisé
 
 ## Ce qui a été mis en place
 - Organisation en groupes d'hôtes et templates (Linux by Zabbix agent, Windows by SNMP, Cisco IOS by SNMP)
