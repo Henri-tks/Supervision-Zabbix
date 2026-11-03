@@ -17,7 +17,23 @@ Objectif : mettre en place une supervision de bout en bout d'un petit parc hét�
 - Tableau de bord (CPU, trafic réseau, occupation disque) et gestion des alertes (incident sur le routeur détecté par ICMP)
 
 ## Captures d'écran
-(captures ici)
+### Tableau de bord
+![Tableau de bord Zabbix](images/01-dashboard.png)
+
+### Hôtes supervisés
+![Hôtes Windows et Linux](images/02-hotes.png)
+
+### Seuils d'alerte (macros)
+![Macros de seuils](images/03-macros.png)
+
+### Déclencheur CPU
+![Déclencheur CPU](images/04-declencheur-cpu.png)
+
+### Graphiques de charge
+![Graphiques CPU](images/05-graphiques.png)
+
+### Alerte sur le routeur R1
+![Incident routeur](images/06-alerte-routeur.png)
 
 ## Compétences mobilisées
 Zabbix, SNMP (v2c/v3), supervision agent / sans agent, gestion des seuils et alertes, dépannage d'un hôte muet.
