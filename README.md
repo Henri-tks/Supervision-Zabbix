@@ -21,19 +21,19 @@ Objectif : mettre en place une supervision de bout en bout d'un petit parc hét�
 ![Tableau de bord Zabbix](01-dashboard.png)
 
 ### Hôtes supervisés
-![Hôtes Windows et Linux](images/02-hotes.png)
+![Hôtes Windows et Linux](02-hotes.png)
 
 ### Seuils d'alerte (macros)
-![Macros de seuils](images/03-macros.png)
+![Macros de seuils](03-macros.png)
 
 ### Déclencheur CPU
-![Déclencheur CPU](images/04-declencheur-cpu.png)
+![Déclencheur CPU](04-declencheur-cpu.png)
 
 ### Graphiques de charge
-![Graphiques CPU](images/05-graphiques.png)
+![Graphiques CPU](05-graphiques.png)
 
 ### Alerte sur le routeur R1
-![Incident routeur](images/06-alerte-routeur.png)
+![Incident routeur](06-alerte-routeur.png)
 
 ## Compétences mobilisées
 Zabbix, SNMP (v2c/v3), supervision agent / sans agent, gestion des seuils et alertes, dépannage d'un hôte muet.
